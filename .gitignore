@@ -6,3 +6,6 @@ server/localdev-config.json
 credentials.json
 localdev-config.json
 server/localdev-config.json
+.odo/env
+.odo/odo-file-index.json
+/venv
